@@ -1,0 +1,172 @@
+Rank,TypesByRating,Rating,WinRate,TypesByDamageInflicted,DamageInflicted,TypesByDamageReceived,DamageReceived
+1,Ground / Water,115.3,0.678235294117647,Flying / Ground,60049.2,Fairy / Steel,39340.9
+2,Flying / Ground,115.1,0.6770588235294117,Fire / Ground,59746.3,Flying / Steel,39847.2
+3,Flying / Steel,114.8,0.6752941176470588,Ground / Ice,59472.1,Ghost / Steel,41795.7
+4,Fire / Ground,114.7,0.6747058823529412,Fairy / Ground,58362.4,Ground / Steel,42177.4
+5,Dragon / Steel,112.6,0.6623529411764706,Ground / Water,58180.8,Steel / Water,42514.0
+6,Flying / Water,110.8,0.6517647058823529,Ground / Steel,57958.2,Dragon / Steel,42869.9
+7,Grass / Steel,109.6,0.6447058823529411,Flying / Water,57313.9,Fire / Ground,43447.8
+8,Fairy / Steel,109.4,0.6435294117647059,Fairy / Ghost,57031.6,Fighting / Steel,43541.9
+9,Ground / Steel,108.4,0.6376470588235295,Fighting / Ghost,56288.5,Flying / Ground,43887.7
+10,Bug / Steel,107.7,0.6335294117647059,Flying / Steel,56209.0,Bug / Steel,44028.3
+11,Steel / Water,107.3,0.6311764705882352,Fire / Water,55979.9,Electric / Steel,44064.2
+12,Electric / Steel,106.0,0.6235294117647059,Bug / Ground,55773.7,Ground / Water,44592.5
+13,Fairy / Ground,105.8,0.6223529411764706,Dark / Poison,55752.7,Dark / Steel,44767.9
+14,Dark / Steel,104.9,0.6170588235294118,Ground / Poison,55703.6,Fire / Steel,44840.8
+15,Ghost / Steel,103.8,0.6105882352941177,Dragon / Water,55681.6,Fairy / Ground,44956.0
+16,Dark / Poison,103.4,0.6082352941176471,Grass / Rock,55489.8,Grass / Steel,45054.7
+17,Fairy / Ghost,103.3,0.6076470588235294,Fairy / Water,55447.0,Fairy / Water,45087.2
+18,Poison / Water,103.0,0.6058823529411764,Steel / Water,55444.3,Fairy / Fire,45423.8
+19,Ground / Ice,102.9,0.6052941176470589,Dragon / Steel,55424.3,Electric / Fairy,45901.2
+20,Fairy / Water,101.2,0.5952941176470589,Ice / Water,55354.3,Poison / Water,46027.9
+21,Dark / Fighting,100.7,0.5923529411764706,Poison / Water,55352.1,Electric / Flying,46039.3
+22,Bug / Ground,100.5,0.5911764705882353,Electric / Ground,55236.0,Dark / Poison,46043.8
+23,Fighting / Steel,100.3,0.59,Electric / Fairy,55155.8,Fairy / Ghost,46340.8
+24,Grass / Rock,100.2,0.5894117647058824,Fighting / Steel,55141.6,Psychic / Steel,46401.8
+25,Ghost / Water,100.2,0.5894117647058824,Dragon / Ground,55003.8,Ghost / Water,46588.8
+26,Fairy / Rock,100.1,0.5888235294117646,Fairy / Steel,54836.7,Flying / Water,46614.1
+27,Electric / Fairy,99.4,0.5847058823529412,Dragon / Fire,54564.5,Poison / Steel,46653.4
+28,Fighting / Ghost,99.0,0.5823529411764706,Ghost / Ground,54369.4,Fire / Water,46719.2
+29,Ground / Poison,98.4,0.5788235294117647,Fighting / Fire,54291.8,Ground / Poison,46743.0
+30,Electric / Poison,98.4,0.5788235294117647,Bug / Steel,54284.0,Steel ,46798.9
+31,Fire / Steel,97.6,0.5741176470588235,Bug / Water,54272.2,Electric / Fighting,46885.6
+32,Electric / Flying,97.1,0.5711764705882353,Dark / Fighting,54231.2,Normal / Steel,46921.6
+33,Rock / Steel,97.1,0.5711764705882353,Fire / Grass,54174.6,Electric / Water,47003.3
+34,Fire / Flying,97.0,0.5705882352941176,Fairy / Fire,54166.4,Bug / Ground,47038.3
+35,Electric / Water,96.9,0.5700000000000001,Electric / Flying,54110.8,Fire / Ghost,47207.7
+36,Electric / Ghost,96.7,0.5688235294117647,Fighting / Ice,54081.2,Fire / Grass,47225.8
+37,Fire / Water,96.6,0.5682352941176471,Fighting / Psychic,54076.1,Fighting / Fire,47271.4
+38,Electric / Ground,96.5,0.5676470588235294,Dark / Fairy,54056.8,Fighting / Ghost,47352.2
+39,Dragon / Water,96.4,0.5670588235294118,Fairy / Rock,54054.6,Electric / Ground,47352.2
+40,Fairy / Fire,95.9,0.5641176470588236,Electric / Water,53958.4,Fighting / Psychic,47516.6
+41,Ghost / Normal,95.5,0.5617647058823529,Ghost / Water,53913.1,Dark / Fairy,47604.1
+42,Fire / Grass,95.5,0.5617647058823529,Fighting / Flying,53870.1,Bug / Rock,47661.7
+43,Electric / Fire,95.3,0.5605882352941176,Ghost / Normal,53858.7,Electric / Ghost,47785.7
+44,Poison / Steel,95.2,0.56,Bug / Rock,53590.8,Ground / Ice,47814.1
+45,Bug / Rock,95.2,0.56,Electric / Fighting,53582.6,Ghost / Ground,47934.1
+46,Electric / Fighting,95.2,0.56,Electric / Ice,53561.4,Dark / Fire,47956.1
+47,Normal / Steel,94.4,0.5552941176470588,Grass / Steel,53552.9,Ghost / Normal,47979.7
+48,Fighting / Psychic,94.3,0.5547058823529412,Rock / Water,53542.9,Fire / Flying,48253.3
+49,Dark / Fairy,94.2,0.5541176470588235,Ghost / Steel,53430.9,Fairy / Rock,48287.7
+50,Dragon / Ground,94.1,0.5535294117647058,Ground / Rock,53287.8,Rock / Steel,48332.4
+51,Ice / Steel,94.1,0.5535294117647058,Electric / Ghost,53122.1,Electric / Fire,48383.6
+52,Fire / Rock,94.0,0.5529411764705883,Electric / Fire,53047.7,Dark / Fighting,48427.9
+53,Ice / Water,93.3,0.5488235294117647,Dark / Steel,52898.0,Electric / Poison,48431.9
+54,Bug / Water,93.1,0.5476470588235294,Electric / Steel,52894.7,Flying / Rock,48626.1
+55,Dark / Ghost,92.4,0.5435294117647059,Fire / Flying,52859.4,Fairy / Poison,48630.7
+56,Rock / Water,92.3,0.5429411764705883,Flying / Rock,52850.9,Dark / Ghost,48683.6
+57,Fire / Ice,91.9,0.5405882352941177,Fire / Ice,52643.5,Fighting / Flying,48695.5
+58,Dragon / Fire,91.9,0.5405882352941177,Fairy / Psychic,52610.9,Dragon / Fire,48742.8
+59,Fighting / Fire,91.8,0.54,Bug / Electric,52578.2,Bug / Electric,48747.4
+60,Flying / Rock,91.4,0.5376470588235295,Fire / Ghost,52485.4,Bug / Water,48770.4
+61,Ghost / Ground,91.2,0.5364705882352941,Fighting / Rock,52460.0,Dragon / Water,48972.9
+62,Fire / Ghost,91.1,0.5358823529411765,Dark / Ghost,52359.5,Ice / Steel,49050.9
+63,Psychic / Steel,90.6,0.5329411764705883,Ground / Normal,52356.4,Grass / Rock,49268.1
+64,Fairy / Ice,90.5,0.5323529411764706,Dark / Fire,52331.3,Fighting / Poison,49268.4
+65,Bug / Electric,90.1,0.5299999999999999,Ghost / Ice,52329.2,Fairy / Normal,49281.2
+66,Fighting / Flying,89.5,0.5264705882352941,Fire / Rock,52073.7,Fighting / Water,49282.8
+67,Fighting / Poison,89.3,0.5252941176470588,Fighting / Ground,52071.8,Dark / Flying,49317.9
+68,Fairy / Normal,89.1,0.5241176470588235,Dark / Flying,52050.9,Fire / Psychic,49430.8
+69,Dark / Flying,88.9,0.5229411764705882,Fairy / Fighting,52037.1,Fairy / Fighting,49539.3
+70,Electric / Ice,88.8,0.5223529411764706,Fire / Steel,52024.6,Ground ,49766.4
+71,Dark / Fire,88.7,0.5217647058823529,Rock / Steel,51900.9,Dragon / Fairy,49876.7
+72,Ghost / Psychic,88.5,0.5205882352941177,Ghost / Poison,51619.6,Ghost / Ice,50066.8
+73,Poison / Rock,88.1,0.518235294117647,Electric / Poison,51509.7,Fighting / Ground,50075.7
+74,Fairy / Psychic,87.9,0.5170588235294118,Dark / Ground,51483.9,Fire / Normal,50184.4
+75,Ghost / Ice,87.5,0.5147058823529411,Fire / Psychic,51439.0,Ground / Normal,50217.0
+76,Dark / Psychic,87.3,0.5135294117647059,Fairy / Normal,51423.0,Dark / Water,50239.3
+77,Electric / Rock,87.3,0.5135294117647059,Fighting / Water,51355.3,Fairy ,50274.0
+78,Flying / Ice,87.2,0.5129411764705882,Poison / Steel,51338.0,Fire ,50329.6
+79,Ground / Rock,86.7,0.51,Ice / Steel,51274.4,Dark / Ground,50349.9
+80,Dragon / Ghost,86.2,0.5070588235294118,Ground / Psychic,51224.5,Bug / Fire,50373.0
+81,Bug / Fire,86.0,0.5058823529411764,Ghost / Psychic,51198.7,Ice / Water,50460.8
+82,Fire / Psychic,86.0,0.5058823529411764,Normal / Water,51165.6,Fairy / Flying,50473.8
+83,Grass / Ground,85.6,0.5035294117647059,Ice / Rock,51159.0,Flying / Ghost,50534.7
+84,Fairy / Poison,85.5,0.5029411764705882,Psychic / Steel,51117.8,Fairy / Psychic,50549.3
+85,Ghost / Poison,85.2,0.5011764705882353,Flying / Ghost,50907.5,Fire / Ice,50692.1
+86,Fairy / Fighting,85.2,0.5011764705882353,Dark / Psychic,50896.0,Fire / Poison,50732.9
+87,Fighting / Ice,85.2,0.5011764705882353,Ghost / Rock,50817.3,Water ,50800.7
+88,Normal / Water,85.1,0.5005882352941177,Fighting / Poison,50804.2,Flying / Poison,50864.0
+89,Ice / Rock,84.4,0.49647058823529416,Bug / Fire,50744.8,Normal / Water,50896.1
+90,Fire / Poison,84.3,0.49588235294117644,Fairy / Ice,50613.3,Dark / Electric,50987.4
+91,Ground / Normal,83.8,0.4929411764705882,Electric / Rock,50612.9,Ghost / Rock,51029.1
+92,Fighting / Ground,83.7,0.4923529411764706,Flying / Ice,50560.7,Poison / Rock,51060.8
+93,Fairy ,83.3,0.49,Bug / Ghost,50522.9,Dragon / Ground,51079.1
+94,Dragon / Fighting,83.0,0.48823529411764705,Grass / Ground,50374.6,Fighting / Rock,51096.7
+95,Fighting / Water,82.6,0.48588235294117643,Psychic / Water,50372.4,Electric / Ice,51154.0
+96,Dragon / Fairy,82.5,0.4852941176470588,Electric / Normal,50199.4,Ghost / Poison,51172.8
+97,Dark / Water,82.2,0.4835294117647059,Dark / Water,50137.9,Fairy / Ice,51178.3
+98,Electric / Normal,81.8,0.48117647058823526,Dragon / Fighting,50131.7,Dragon / Ghost,51255.1
+99,Steel ,81.6,0.48,Fairy / Poison,50053.6,Poison / Psychic,51267.1
+100,Fire / Normal,81.5,0.47941176470588237,Dragon / Ghost,49924.6,Rock / Water,51269.2
+101,Psychic / Water,81.3,0.47823529411764704,Poison / Rock,49860.9,Fighting / Ice,51294.6
+102,Dark / Electric,81.2,0.4776470588235294,Normal / Steel,49608.4,Psychic / Water,51308.9
+103,Electric / Psychic,80.9,0.4758823529411765,Dragon / Electric,49515.7,Bug / Fairy,51335.3
+104,Bug / Ghost,80.6,0.4741176470588235,Dark / Electric,49482.0,Fighting ,51413.8
+105,Flying / Ghost,80.6,0.4741176470588235,Electric / Psychic,49453.7,Grass / Water,51419.9
+106,Dark / Ground,80.6,0.4741176470588235,Fire / Normal,49434.7,Fire / Rock,51460.1
+107,Ground ,80.5,0.47352941176470587,Ice / Poison,49294.8,Ground / Psychic,51538.8
+108,Fighting / Rock,80.5,0.47352941176470587,Fairy / Flying,49288.4,Flying / Normal,51548.0
+109,Ghost ,80.0,0.47058823529411764,Psychic / Rock,49218.6,Grass / Ground,51578.2
+110,Ghost / Rock,79.9,0.47000000000000003,Dragon / Rock,49206.2,Flying ,51756.3
+111,Ground / Psychic,79.9,0.47000000000000003,Grass / Water,49195.1,Electric / Psychic,51890.9
+112,Ice / Poison,79.1,0.4652941176470588,Fire / Poison,49041.0,Electric / Normal,51945.1
+113,Fairy / Grass,79.0,0.4647058823529412,Dragon / Ice,49005.9,Fighting / Normal,52022.7
+114,Bug / Ice,78.8,0.46352941176470586,Poison / Psychic,48970.7,Ghost ,52040.0
+115,Bug / Fighting,78.7,0.46294117647058824,Ice / Psychic,48945.0,Flying / Ice,52043.9
+116,Water ,78.2,0.46,Ghost / Grass,48872.7,Electric ,52117.9
+117,Dragon / Poison,78.1,0.4594117647058823,Normal / Psychic,48548.9,Dragon / Poison,52140.6
+118,Fairy / Flying,77.9,0.4582352941176471,Fairy ,48545.4,Dark / Psychic,52171.7
+119,Dragon / Electric,77.7,0.4570588235294118,Dragon / Fairy,48529.2,Ice / Poison,52216.5
+120,Poison / Psychic,77.2,0.45411764705882357,Flying / Grass,48287.7,Grass / Poison,52294.3
+121,Grass / Water,77.0,0.45294117647058824,Dragon / Flying,48151.4,Bug / Fighting,52383.2
+122,Flying / Poison,76.8,0.4517647058823529,Dragon / Poison,48140.0,Fairy / Grass,52459.9
+123,Flying ,76.5,0.45,Water ,48109.6,Electric / Rock,52551.6
+124,Dark / Rock,76.4,0.4494117647058824,Dark / Ice,48096.8,Bug / Ghost,52573.2
+125,Bug / Fairy,76.3,0.4488235294117647,Bug / Ice,47982.6,Ghost / Grass,52605.8
+126,Fire ,76.2,0.44823529411764707,Dark / Rock,47815.5,Dragon / Electric,52922.3
+127,Normal / Rock,75.7,0.44529411764705884,Bug / Fighting,47731.1,Normal / Psychic,52927.9
+128,Dragon / Rock,75.6,0.4447058823529411,Dark / Normal,47525.8,Dragon / Fighting,52998.6
+129,Ice / Psychic,75.5,0.4441176470588235,Flying / Normal,47445.3,Normal / Poison,53011.1
+130,Dragon / Flying,75.3,0.4429411764705882,Flying / Psychic,47410.6,Rock ,53123.7
+131,Ghost / Grass,75.3,0.4429411764705882,Flying / Poison,47379.3,Dragon / Rock,53478.7
+132,Dark / Normal,75.1,0.4417647058823529,Bug / Psychic,47173.3,Ice / Psychic,53499.1
+133,Flying / Normal,75.0,0.4411764705882353,Ice / Normal,47116.3,Flying / Psychic,53525.7
+134,Psychic / Rock,74.4,0.43764705882352944,Ground ,46960.8,Psychic / Rock,53532.0
+135,Dark / Ice,74.2,0.4364705882352941,Electric / Grass,46771.8,Electric / Grass,53568.3
+136,Dragon / Ice,74.2,0.4364705882352941,Grass / Ice,46770.5,Poison ,53706.8
+137,Ice / Normal,73.6,0.4329411764705882,Bug / Flying,46761.0,Ice ,53754.8
+138,Rock ,73.0,0.4294117647058823,Fire ,46758.9,Bug / Dark,53904.2
+139,Dark / Dragon,73.0,0.4294117647058823,Grass / Poison,46701.7,Bug / Poison,53918.5
+140,Normal / Psychic,72.8,0.42823529411764705,Flying ,46644.5,Ground / Rock,54108.9
+141,Flying / Grass,72.1,0.4241176470588235,Normal / Rock,46636.8,Bug / Normal,54139.9
+142,Fighting / Normal,71.8,0.4223529411764706,Fairy / Grass,46582.8,Dark ,54229.6
+143,Fighting / Grass,71.6,0.42117647058823526,Ghost ,46377.6,Ghost / Psychic,54346.8
+144,Flying / Psychic,70.1,0.41235294117647053,Bug / Fairy,46329.1,Dragon / Flying,54426.1
+145,Grass / Poison,69.9,0.4111764705882353,Dark / Dragon,45952.1,Dragon / Ice,54466.1
+146,Dark ,69.6,0.4094117647058823,Fighting / Normal,45891.0,Normal / Rock,54680.2
+147,Bug / Flying,69.5,0.4088235294117647,Fighting / Grass,45789.8,Fighting / Grass,54689.2
+148,Fighting ,69.3,0.4076470588235294,Bug / Dark,45754.2,Dark / Rock,54689.9
+149,Grass / Ice,68.6,0.40352941176470586,Steel ,45750.8,Bug / Dragon,55056.8
+150,Electric ,68.5,0.40294117647058825,Rock ,45588.1,Flying / Grass,55156.7
+151,Electric / Grass,68.2,0.4011764705882353,Bug / Dragon,45450.0,Bug / Psychic,55157.9
+152,Bug / Dark,67.9,0.3994117647058824,Bug / Normal,45261.3,Psychic ,55237.3
+153,Bug / Dragon,67.0,0.3941176470588235,Dragon / Psychic,44883.6,Bug ,55245.5
+154,Ice ,66.9,0.3935294117647059,Dark ,44784.5,Dark / Dragon,55575.7
+155,Bug / Psychic,66.5,0.3911764705882353,Ice ,44665.0,Bug / Flying,55598.8
+156,Bug / Normal,65.6,0.38588235294117645,Bug / Poison,44616.5,Dark / Ice,55731.1
+157,Dragon ,65.0,0.38235294117647056,Dragon / Normal,44381.9,Dragon / Psychic,55773.7
+158,Dragon / Psychic,64.4,0.3788235294117647,Normal / Poison,44324.0,Ice / Normal,55817.3
+159,Psychic ,63.9,0.37588235294117645,Electric ,43811.7,Ice / Rock,55843.9
+160,Bug / Poison,63.6,0.37411764705882355,Grass / Psychic,43555.1,Dark / Normal,56132.7
+161,Normal / Poison,62.8,0.36941176470588233,Dragon ,43502.0,Dragon ,56304.0
+162,Bug / Grass,62.1,0.3652941176470588,Dragon / Grass,43243.1,Bug / Ice,56317.8
+163,Dark / Grass,61.9,0.36411764705882355,Dark / Grass,43116.3,Normal ,56478.3
+164,Grass / Psychic,61.8,0.3635294117647059,Psychic ,42399.0,Dragon / Normal,56883.3
+165,Dragon / Normal,59.5,0.35,Grass / Normal,41810.4,Grass ,57213.6
+166,Dragon / Grass,58.4,0.34352941176470586,Fighting ,41585.7,Dark / Grass,57395.4
+167,Poison ,57.6,0.3388235294117647,Bug / Grass,41404.2,Grass / Normal,57429.8
+168,Bug ,52.3,0.3076470588235294,Normal ,39891.9,Grass / Ice,57622.1
+169,Grass / Normal,51.5,0.3029411764705882,Poison ,38758.6,Grass / Psychic,58344.0
+170,Normal ,50.1,0.2947058823529412,Bug ,38240.5,Dragon / Grass,59224.2
+171,Grass ,49.3,0.29,Grass ,36043.8,Bug / Grass,59721.9
